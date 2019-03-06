@@ -1,5 +1,8 @@
 # 蒙特卡罗方法(Monte Carlo Method)
 
+![Author](https://img.shields.io/badge/Author-AndrewYq-orange.svg)
+![Email](https://img.shields.io/badge/Email-hfyqstar@163.com-blue.svg)
+
 ## 目录
 * [概述](#概述)
 * [思想](#思想)
